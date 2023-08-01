@@ -1,0 +1,21 @@
+<PurchaseInvoice>
+  <PurchaseInvoiceNumber>c8c157e5-96e1-44a8-a1f8-eaa048012256</PurchaseInvoiceNumber>
+  <DossierNumber>34Q23100053</DossierNumber>
+  <InvoiceDate>2023-07-11T00:00:00</InvoiceDate>
+  <TotalGrossAmount>1800</TotalGrossAmount>
+  <TotalTaxAmount>360</TotalTaxAmount>
+  <TotalNetAmount>1800</TotalNetAmount>
+  <TotalDiscount>270</TotalDiscount>
+  <PurchaseInvoiceLines>
+    <PurchaseInvoiceLine>
+      <PurchaseInvoiceLineId>135</PurchaseInvoiceLineId>
+      <WorkingOrdernumber>34Q23100053 - 01 - 01</WorkingOrdernumber>
+      <NetAmount>1800</NetAmount>
+      <TaxAmount>360</TaxAmount>
+      <GrossAmount>1800</GrossAmount>
+      <Quantity>9</Quantity>
+      <UnitPrice>200</UnitPrice>
+      <Discount>270</Discount>
+    </PurchaseInvoiceLine>
+  </PurchaseInvoiceLines>
+</PurchaseInvoice>
